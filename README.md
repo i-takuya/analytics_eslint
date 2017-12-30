@@ -1,2 +1,4 @@
-# anlytics_eslint
-解析します
+# eslint_stat
+github上のorgからJavaScriptを使っているrepositoryを取得してeslintrcを取得して何のルールを使用しているか調査する(予定の)batchスクリプトです。
+
+WIP
